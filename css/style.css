@@ -10,6 +10,13 @@ Licence under Creative Commons Attribution 3.0
 
 /* Reset
 ---------------------------------*/
+.fade {
+  opacity: 0.5;
+}
+.fade:hover {
+  opacity: 10;
+}
+
 ul {
   list-style: none;
 }
